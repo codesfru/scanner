@@ -1,9 +1,9 @@
 class Presets(object):
     WELCOME_MESSAGE = """
 <b>Hello.. </b>{}
-<code>I'm an official telecaster bot
+<code>my self STUDENTA🇮🇳 bot brings latest educational updates of telegram to you
 maintained by</code> <b>{}</b>
-<code>Keep me unblocked to receive ma official updates.</code>
+<code>Keep me unblocked to receive ne updates .</code>
     """
     USERS_LIST = "<b>Total:</b>\n\nSubscribers - {}\nBlocked / Deleted - {}"
     WAIT_MSG = "<b>Please Wait...</b>"
