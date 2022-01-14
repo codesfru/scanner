@@ -5,7 +5,7 @@ class Presets(object):
 maintained by</code> <b>{}</b>
 <code>Keep me unblocked to receive ne updates  buttons = [
         InlineKeyboardButton(
-            text="JOIN UPDATE CHANNEL", url="t.me/codesfru"), ] .</code>
+            text="JOIN UPDATE CHANNEL", url="https://t.me/codesfru"), ] .</code>
     """
     USERS_LIST = "<b>Total:</b>\n\nSubscribers - {}\nBlocked / Deleted - {}"
     WAIT_MSG = "<b>Please Wait...</b>"
