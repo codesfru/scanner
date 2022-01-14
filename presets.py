@@ -1,12 +1,17 @@
-class Presets(object):
-    WELCOME_MESSAGE = """
-<b>Hello.. </b>{}
-<code>my self STUDENTA🇮🇳 bot brings latest educational updates of telegram to you
-maintained by</code> <b>{}</b>
-<code>Keep me unblocked to receive ne updates  buttons = [
+PM_START_TEXT = f"
+` ding dong Well to know you are here to meet me.
+Myself Central bot made for @CENTRAL_COMMUNITY to manage it.
+i am for private use not for every public group go to the buttons below ..'
+"""
+
+buttons = [
+    [
         InlineKeyboardButton(
-            text="JOIN UPDATE CHANNEL", url="https://t.me/codesfru"), ] .</code>
-    """
-    USERS_LIST = "<b>Total:</b>\n\nSubscribers - {}\nBlocked / Deleted - {}"
-    WAIT_MSG = "<b>Please Wait...</b>"
-    REPLY_ERROR = "<code>Use this command as a reply to any telegram message with out any spaces.</code>"
+            text="🈴CENTRAL COMMUNITY", url="t.me/python_pirates_bot?startgroup=true"),
+    ],
+    [
+        InlineKeyboardButton(text="MY CREATOR 🔧", url="https://t.me/parv200v"),
+        InlineKeyboardButton(text="Source code🗂", url="https://github.com/coderparv/central"),◽️
+    ],
+     
+]
