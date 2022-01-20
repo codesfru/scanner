@@ -1,9 +1,11 @@
 class Presets(object):
     WELCOME_MESSAGE = """
+
 <b>Hello.. </b>{}
-<code>my self STUDENTA🇮🇳 bot brings latest educational updates of telegram to you
+
+<code>NETRIKA SCANNER IS HERE TO SCAN YOUR CHAT AND TO MAKE IT PIRACY FREE
 maintained by</code> <b>{}</b>
-<code>Keep me unblocked to receive new updates related to study .</code>
+<code>ADD ME TO YOUR CHAT WITH ADMIN RIGHTS OF DELETE MESSAGES AND BAN USER .</code>
     """
     USERS_LIST = "<b>Total:</b>\n\nSubscribers - {}\nBlocked / Deleted - {}"
     WAIT_MSG = "<b>Please Wait...</b>"
