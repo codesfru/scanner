@@ -4,7 +4,7 @@ class Presets(object):
 <b>Hello.. </b>{}
 
 <code>NETRIKA SCANNER IS HERE TO SCAN YOUR CHAT AND TO MAKE IT PIRACY FREE
-maintained by</code> <b>{}</b>
+maintained by https://www.netrika.com </code> <b>{}</b>
 <code>ADD ME TO YOUR CHAT WITH ADMIN RIGHTS OF DELETE MESSAGES AND BAN USER .</code>
     """
     USERS_LIST = "<b>Total:</b>\n\nSubscribers - {}\nBlocked / Deleted - {}"
