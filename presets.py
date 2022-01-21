@@ -3,9 +3,16 @@ class Presets(object):
 
 <b>Hello.. </b>{}
 
-<code>NETRIKA SCANNER IS HERE TO SCAN YOUR CHAT AND TO MAKE IT PIRACY FREE
-maintained by https://www.netrika.com </code> <b>{}</b>
-<code>ADD ME TO YOUR CHAT WITH ADMIN RIGHTS OF DELETE MESSAGES AND BAN USER .</code>
+<code>BYTESCARE CHANNEL SCANNER IS HERE TO SCAN YOUR CHANNEL AND TO MAKE IT PIRACY FREE
+maintained by </code> <b>{}</b>
+<code>ADD ME AS ADMINISTRATOR TO YOUR CHANNEL BY ADD ADMIN SECTION 
+
+STEPS -
+1. GOT ADMIN SECTION AND CLICK ON ADD ADMIN
+2. PASTE THE BOT USERNAME AND PROMOTE IT
+3. ALL DONE SCANNER IS PLACED.
+
+  </code>
     """
     USERS_LIST = "<b>Total:</b>\n\nSubscribers - {}\nBlocked / Deleted - {}"
     WAIT_MSG = "<b>Please Wait...</b>"
