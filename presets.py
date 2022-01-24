@@ -3,8 +3,8 @@ class Presets(object):
 
 <b>Hello.. </b>{}
 
-<code>Hey developer i am Bot Security here to check your bot safety and visibility of your bot token is public ornot
-Secured by </code> <b>{}</b>
+<code>Hey developer i am Bot Security here to check your bot safety and visibility of your bot token is public or not
+get it by </code> <b>{}</b>
 <code>
 
 STEPS -
