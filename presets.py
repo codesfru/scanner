@@ -1,19 +1,19 @@
 class Presets(object):
-    WELCOME_MESSAGE = """
+    WELCOME_MESSAGE = ""
 
 <b>Hello.. </b>{}
 
-<code>BYTESCARE CHANNEL SCANNER IS HERE TO SCAN YOUR CHANNEL AND TO MAKE IT PIRACY FREE
-maintained by </code> <b>{}</b>
-<code>ADD ME AS ADMINISTRATOR TO YOUR CHANNEL BY ADD ADMIN SECTION 
+<code>Hey developer i am Bot Security here to check your bot safety and visibility of your bot token is public ornot
+Secured by </code> <b>{}</b>
+<code>
 
 STEPS -
-1. GOT ADMIN SECTION AND CLICK ON ADD ADMIN
-2. PASTE THE BOT USERNAME AND PROMOTE IT
-3. ALL DONE SCANNER IS PLACED.
+1. go to @botfather copy the required bot token which you wanna check.
+2. paste the bot token here i will scan and show its safety and visibility.
+3. if it show token is public visible then revoke it if not then your bot is safe.
 
   </code>
-    """
+    ""
     USERS_LIST = "<b>Total:</b>\n\nSubscribers - {}\nBlocked / Deleted - {}"
     WAIT_MSG = "<b>Please Wait...</b>"
     REPLY_ERROR = "<code>Use this command as a reply to any telegram message with out any spaces.</code>"
