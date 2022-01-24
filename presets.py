@@ -8,7 +8,7 @@ get it by </code> <b>{}</b>
 <code>
 
 STEPS -
-1. go to **@botfather** copy the required bot token which you wanna check.
+1. go to [BotFather](https://t.me/botfather) copy the required bot token which you wanna check.
 2. paste the bot token here i will scan and show its safety and visibility.
 3. if it show token is public visible then revoke it if not then your bot is safe.
 
