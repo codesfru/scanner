@@ -3,14 +3,11 @@ class Presets(object):
 
 <b>Hello.. </b>{}
 
-<code>Hey developer i am Bot Security here to check your bot safety and visibility of your bot token is public or not
-get it by </code> <b>{}</b>
+<code> JUST DROP YOUR MESSAGE DEAR WE WILL SEE AND RESPOND SOON.
+OWNEED BY</code> <b>{}</b>
 <code>
 
-STEPS -
-1. go to BotFather copy the required bot token which you wanna check.
-2. paste the bot token here i will scan and show its safety and visibility.
-3. if it show token is public visible then revoke it if not then your bot is safe.
+ 
 
   </code>
     """
